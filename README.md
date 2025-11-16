@@ -1,4 +1,4 @@
-# Hi, Welcome to Diversity and Nature (DAN) Conservation Lab, led by Dr. Dan Liang, an associate professor at the School of Ecology, Sun Yat-sen University in Shenzhen! 👋
+# Hi, this is a website for Diversity and Nature (DAN) Conservation Lab, led by Dr. Dan Liang (liangd63@mail.sysu.edu.cn), an associate professor at the School of Ecology, Sun Yat-sen University in Shenzhen! 
 
 <!--
 **danconservationlab/DANConservationLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
