@@ -1,0 +1,16 @@
+title: "DAN Conservation Lab"
+description: "Diversity and Nature (DAN) Conservation Lab"
+theme: jekyll-theme-minimal
+
+css: style.css
+
+header_pages:
+  - index.md
+  - pages/research.md
+  - pages/people.md
+  - pages/publications.md
+  - pages/contact.md
+
+author:
+  name: "Dr. Dan Liang"
+  email: "liang63@mail.sysu.edu.cn"
